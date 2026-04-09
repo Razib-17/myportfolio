@@ -1,7 +1,7 @@
 {
   "name": "react-blog",
   "homepage": "https://Razib-17.github.io/myportfolio/",
-  "private": false,
+  "private":"false",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
