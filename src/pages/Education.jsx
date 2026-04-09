@@ -1,5 +1,5 @@
 import React from 'react'
-import myImage from '/images/me2.jpeg'
+import myImage from '../images/me2.jpeg'
 import { GiGraduateCap } from 'react-icons/gi'
 import './Education.css'
 

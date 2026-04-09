@@ -1,7 +1,7 @@
 import React from 'react'
 import { BsLinkedin } from 'react-icons/bs'
 import { BsGithub } from 'react-icons/bs'
-import ME from '/images/me.jpg'
+import ME from '../images/me.jpeg'
 import './Home.css'
 
 const Home = () => {
